@@ -1,0 +1,26 @@
+{
+  "overview": "A cinematic, ultra-premium 3D portfolio for Tahsinullah Riyad (brand TR) — now with TR.AI, an integrated AI assistant featuring a chatbot, AI showcase, website builder, and floating widget. Built with React, Three.js, GSAP, and Framer Motion for a futuristic, immersive experience.",
+  "features": [
+    "TR.AI chatbot section with real AI responses",
+    "AI showcase gallery cards",
+    "Website Builder AI modal — describe a site and get a concept",
+    "Persistent floating chat widget",
+    "Cinematic 3D portfolio sections (Hero, About, Skills, Projects, Social, Contact)",
+    "Web Audio API synthesized sounds",
+    "Dark futuristic aesthetic with GSAP and Framer Motion animations"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "3d",
+    "ai",
+    "chatbot",
+    "website-builder",
+    "react",
+    "three-js",
+    "gsap",
+    "framer-motion",
+    "cinematic"
+  ],
+  "last_updated": "2026-04-13T02:26:15.831Z"
+}
